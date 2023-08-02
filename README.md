@@ -9,7 +9,6 @@ FRS is an application that will be able to report ,track and show remarks on esc
 2.	Enable the business to monitor and track fraud trends in the market and come up with solutions.
 3.  Have a central reporting platform.
 
-
 # Developers
 
 - David Muchina
