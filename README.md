@@ -24,7 +24,7 @@ FRS is an application that will be able to report ,track and show remarks on esc
 
 git clone https://github.com/Group62023/backend.git
 Open the cloned code on vs code
-Run with live server
+Run with local host:3001
 
 Copyright and License information
 (c) 2023 group6Moringa2023
