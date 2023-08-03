@@ -32,5 +32,5 @@ FRS is an application that will be able to report ,track and show remarks on esc
 - Open the cloned code on vs code
 - Run with local host:3001
 
-Copyright and License information
-(c) 2023 group6Moringa2023
+# Copyright and License information
+License Copyright (c) [2023] [MORINGA SCHOOL GROUP 6 COHORT 4]
