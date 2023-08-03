@@ -23,6 +23,9 @@ FRS is an application that will be able to report ,track and show remarks on esc
 - Express
 - Node JS
 
+ # Live Link
+  The site is live at https://group62023.github.io/backend/
+
 # Setup instructions
 
 - git clone https://github.com/Group62023/backend.git
